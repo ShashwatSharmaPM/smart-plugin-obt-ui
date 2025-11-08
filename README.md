@@ -41,7 +41,7 @@ Deliverables:
 
 ---
 
-##Impact
+## Impact
 - Successfully embedded extra contextual information across **3 major OBTs**.
 - Increased visibility of key data points for end users by **30%**.  
 - Reduced user friction in booking flows, resulting in projected **12% improvement in conversion rates**.
